@@ -7,3 +7,4 @@ describe("formatUserName", () => {
     expect(result).toBe("Alice Dupont");
   });
 });
+
